@@ -1,5 +1,5 @@
 # Scroll-Indicator-HTML-CSS-and-jQuery
-Scroll Indicator using HTML, CSS and jQuery
+Scroll Indicator using HTML, CSS and jQuery.
 
 Codepen link --> https://codepen.io/ANDREGABRIELS/pen/KKZGryV
 
